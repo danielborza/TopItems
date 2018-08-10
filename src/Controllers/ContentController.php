@@ -14,8 +14,7 @@ class ContentController extends Controller
         $itemColumns = [
             'itemDescription' => [
                 'name1',
-                'description',
-                'image'
+                'description'
             ],
             'variationBase' => [
                 'id'
